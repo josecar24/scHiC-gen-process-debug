@@ -1,0 +1,14 @@
+###	N.B.: File summary located at bottom of TSV file.					Suggested command to download: 			cut -f 1 ./4DNESUE2NSGS_supp_files_2024-10-22-19h-47m.tsv | tail -n +3 | grep -v ^# | xargs -n 1 curl -O -L --user <access_key_id>:<access_key_secret>
+File Download URL	Experiment Set Accession	Experiment Accession	File Accession	Size (MB)	md5sum	File Type	File Format	Bio Rep No	Tech Rep No	Biosource Type	Organism	Related File Relationship	Related File	Paired End	Set Status	File Status	Publication	Experiment Type	Replicate Info	Assay Details	Biosource	Dataset	Condition	In Experiment As	Project	Generating Lab	Experimental Lab	Contributing Lab	Notes	Open Data URL
+https://data.4dnucleome.org/files-reference/4DNFIFOSOLDM/@@download/4DNFIFOSOLDM.txt	4DNESUE2NSGS	4DNEXRQS6RMZ	4DNFIFOSOLDM	0.00	bf1381e82efc2fb0ac3e3080909ff0ea	barcodes	txt	1	1	immortalized cell line	human	N/A	N/A	N/A	released	released	Kim HJ et al. (2020)	N/A	N/A	N/A	N/A	N/A	N/A	N/A	4DN	N/A	N/A	N/A	N/A	N/A
+https://data.4dnucleome.org/files-reference/4DNFINE9JUAI/@@download/4DNFINE9JUAI.txt	4DNESUE2NSGS	4DNEXE63LNM5	4DNFINE9JUAI	0.00	f5f398961f15b57fca8118d7a11735af	barcodes	txt	2	1	immortalized cell line	human	N/A	N/A	N/A	released	released	Kim HJ et al. (2020)	N/A	N/A	N/A	N/A	N/A	N/A	N/A	4DN	N/A	N/A	William Noble, UW	N/A	N/A
+https://data.4dnucleome.org/files-reference/4DNFIOJZXBCB/@@download/4DNFIOJZXBCB.txt	4DNESUE2NSGS	4DNEXE63LNM5	4DNFIOJZXBCB	0.00	a2dbe0b0ccab5fc783a8af60c05306c4	barcodes	txt	2	1	immortalized cell line	human	N/A	N/A	N/A	released	released	Kim HJ et al. (2020)	N/A	N/A	N/A	N/A	N/A	N/A	N/A	4DN	N/A	N/A	N/A	N/A	N/A
+https://data.4dnucleome.org/files-reference/4DNFIUSK42KP/@@download/4DNFIUSK42KP.txt	4DNESUE2NSGS	4DNEXE63LNM5	4DNFIUSK42KP	0.00	fc187be5c3da1f502ddfa26559dcbee9	barcodes	txt	2	1	immortalized cell line	human	N/A	N/A	N/A	released	released	Kim HJ et al. (2020)	N/A	N/A	N/A	N/A	N/A	N/A	N/A	4DN	N/A	N/A	William Noble, UW	N/A	N/A
+###		
+###	Summary	
+###		
+###	Files Selected for Download:			4	
+###	Total File Rows:			4	
+###	Unique Downloadable Files:			4	
+###						
+###	IMPORTANT: As of October 15, 2020, you must include an access key in your cURL command for bulk downloads. You can configure the access key in your profile. If you do not already have an account, you can log in with your Google or GitHub credentials.				
